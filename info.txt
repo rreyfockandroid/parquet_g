@@ -1,0 +1,3 @@
+https://parquet.apache.org/docs/file-format/bloomfilter/
+https://duckdb.org/docs/stable/data/parquet/overview.html
+https://github.com/duckdb/duckdb/releases/download/v1.2.1/duckdb_cli-linux-amd64.zip
